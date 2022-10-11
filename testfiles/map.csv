@@ -1,0 +1,258 @@
+2021 HDI Rank,Country,Continent,Status
+1,Switzerland,Europe,Very High
+2,Norway,Europe,Very High
+3,Iceland,Europe,Very High
+4,"Hong Kong, China (SAR)",Asia,Very High
+5,Australia,Australia,Very High
+6,Denmark,Europe,Very High
+7,Sweden,Europe,Very High
+8,Ireland,Europe,Very High
+9,Germany,Europe,Very High
+10,Netherlands,Europe,Very High
+11,Finland,Europe,Very High
+12,Singapore,Asia,Very High
+13,Belgium,Europe,Very High
+13,New Zealand,Australia,Very High
+15,Canada,Europe,Very High
+16,Liechtenstein,Europe,Very High
+17,Luxembourg,Europe,Very High
+18,United Kingdom,Europe,Very High
+19,Japan,Asia,Very High
+19,South Korea,Asia,Very High
+21,United States of America,North America,Very High
+22,Israel,Asia,Very High
+23,Malta,Europe,Very High
+23,Slovenia,Europe,Very High
+25,Austria,Europe,Very High
+26,United Arab Emirates,Asia,Very High
+27,Spain,Europe,Very High
+28,France,Europe,Very High
+29,Cyprus,Europe,Very High
+30,Italy,Europe,Very High
+31,Estonia,Europe,Very High
+32,Czechia,Europe,Very High
+33,Greece,Europe,Very High
+34,Poland,Europe,Very High
+35,Bahrain,Asia,Very High
+35,Lithuania,Europe,Very High
+35,Saudi Arabia,Asia,Very High
+38,Portugal,Europe,Very High
+39,Latvia,Europe,Very High
+40,Andorra,Europe,Very High
+40,Croatia,Europe,Very High
+42,Chile,South America,Very High
+42,Qatar,Asia,Very High
+44,San Marino,Europe,Very High
+45,Slovakia,Europe,Very High
+46,Hungary,Europe,Very High
+47,Argentina,South America,Very High
+48,Turkey,Europe,Very High
+49,Montenegro,Europe,Very High
+50,Kuwait,Asia,Very High
+51,Brunei,Asia,Very High
+52,Russia,Europe,Very High
+53,Romania,Europe,Very High
+54,Oman,Asia,Very High
+55,Bahamas,North America,Very High
+56,Kazakhstan,Asia,Very High
+57,Trinidad and Tobago,North America,Very High
+58,Costa Rica,North America,Very High
+58,Uruguay,South America,Very High
+60,Belarus,Europe,Very High
+61,Panama,North America,Very High
+62,Malaysia,Asia,Very High
+63,Georgia,Europe,Very High
+63,Mauritius,Africa,Very High
+63,Serbia,Europe,Very High
+66,Thailand,Asia,Very High
+67,Albania,Europe,High
+68,Bulgaria,Europe,High
+68,Grenada,North America,High
+70,Barbados,North America,High
+71,Antigua and Barbuda,North America,High
+72,Seychelles,Africa,High
+73,Sri Lanka,Asia,High
+74,Bosnia and Herz.,Europe,High
+75,Saint Kitts and Nevis,North America,High
+76,Iran,Asia,High
+77,Ukraine,Europe,High
+78,Macedonia,Europe,High
+79,China,Asia,High
+80,Dominican Rep.,North America,High
+80,Moldova,Europe,High
+80,Palau,Australia,High
+83,Cuba,North America,High
+84,Peru,South America,High
+85,Armenia,Europe,High
+86,Mexico,North America,High
+87,Brazil,South America,High
+88,Colombia,South America,High
+89,Saint Vincent and the Grenadines,North America,High
+90,Maldives,Asia,High
+91,Algeria,Africa,High
+91,Azerbaijan,Asia,High
+91,Tonga,Australia,High
+91,Turkmenistan,Asia,High
+95,Ecuador,South America,High
+96,Mongolia,Asia,High
+97,Egypt,Africa,High
+97,Tunisia,Africa,High
+99,Fiji,Australia,High
+99,Suriname,South America,High
+101,Uzbekistan,Asia,High
+102,Dominica,North America,High
+102,Jordan,Asia,High
+104,Libya,Africa,High
+105,Paraguay,South America,High
+106,Palestine,Asia,High
+106,Saint Lucia,North America,High
+108,Guyana,South America,High
+109,South Africa,Africa,High
+110,Jamaica,North America,High
+111,Samoa,Australia,High
+112,Gabon,Africa,High
+112,Lebanon,Asia,High
+114,Indonesia,Asia,High
+115,Vietnam,Asia,High
+116,Philippines,Asia,Medium
+117,Botswana,Africa,Medium
+118,Bolivia,South America,Medium
+118,Kyrgyzstan,Asia,Medium
+120,Venezuela,South America,Medium
+121,Iraq,Asia,Medium
+122,Tajikistan,Asia,Medium
+123,Belize,North America,Medium
+123,Morocco,Africa,Medium
+125,El Salvador,North America,Medium
+126,Nicaragua,North America,Medium
+127,Bhutan,Asia,Medium
+128,Cabo Verde,Africa,Medium
+129,Bangladesh,Asia,Medium
+130,Tuvalu,Australia,Medium
+131,Marshall Islands,Australia,Medium
+132,India,Asia,Medium
+133,Ghana,Africa,Medium
+134,Micronesia,Australia,Medium
+135,Guatemala,North America,Medium
+136,Kiribati,Australia,Medium
+137,Honduras,North America,Medium
+138,Sao Tome and Principe,Africa,Medium
+139,Namibia,Africa,Medium
+140,Laos,Asia,Medium
+140,Timor-Leste,Asia,Medium
+140,Vanuatu,Australia,Medium
+143,Nepal,Asia,Medium
+144,eSwatini,Africa,Medium
+145,Eq. Guinea,Africa,Medium
+146,Cambodia,Asia,Medium
+146,Zimbabwe,Africa,Medium
+148,Angola,Africa,Medium
+149,Myanmar,Asia,Medium
+150,Syria,Asia,Medium
+151,Cameroon,Africa,Medium
+152,Kenya,Africa,Medium
+153,Congo,Africa,Medium
+154,Zambia,Africa,Medium
+155,Solomon Is.,Australia,Medium
+156,Comoros,Africa,Medium
+156,Papua New Guinea,Australia,Medium
+158,Mauritania,Africa,Medium
+159,Côte d'Ivoire,Africa,Medium
+160,Tanzania,Africa,Low
+161,Pakistan,Asia,Low
+162,Togo,Africa,Low
+163,Haiti,North America,Low
+163,Nigeria,Africa,Low
+165,Rwanda,Africa,Low
+166,Benin,Africa,Low
+166,Uganda,Africa,Low
+168,Lesotho,Africa,Low
+169,Malawi,Africa,Low
+170,Senegal,Africa,Low
+171,Djibouti,Africa,Low
+172,Sudan,Africa,Low
+173,Madagascar,Africa,Low
+174,Gambia,Africa,Low
+175,Ethiopia,Africa,Low
+176,Eritrea,Africa,Low
+177,Guinea-Bissau,Africa,Low
+178,Liberia,Africa,Low
+179,Dem. Rep. Congo,Africa,Low
+180,Afghanistan,Asia,Low
+181,Sierra Leone,Africa,Low
+182,Guinea,Africa,Low
+183,Yemen,Africa,Low
+184,Burkina Faso,Africa,Low
+185,Mozambique,Africa,Low
+186,Mali,Africa,Low
+187,Burundi,Africa,Low
+188,Central African Rep.,Africa,Low
+189,Niger,Africa,Low
+190,Chad,Africa,Low
+191,S. Sudan,Africa,Low
+NA,North Korea,Asia,NA
+NA,Monaco,Europe,NA
+NA,Nauru,Australia,NA
+NA,Somalia,Africa,NA
+NA,Very high human development,NA,NA
+NA,High human development,NA,NA
+NA,Medium human development,NA,NA
+NA,Low human development,NA,NA
+NA,Developing countries,NA,NA
+NA,Arab States,NA,NA
+NA,East Asia and the Pacific,NA,NA
+NA,Europe and Central Asia,NA,NA
+NA,Latin America and the Caribbean,NA,NA
+NA,South Asia,NA,NA
+NA,Sub-Saharan Africa,NA,NA
+NA,Least developed countries,NA,NA
+NA,Small island developing states,NA,NA
+NA,Organisation for Economic Co-operation and Development,NA,NA
+NA,World,NA,NA
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
