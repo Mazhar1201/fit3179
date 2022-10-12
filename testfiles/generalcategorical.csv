@@ -1,5 +1,21 @@
-Country,CurrentScore,LifeExp,ExpSchYrs,MeanSchYrs,GNIperCapita
-Very high,0.896,78.5,16.5,12.3,44
-High,0.754,74.7,14.2,8.3,15
-Medium,0.636,67.4,11.9,6.9,6
-Low,0.518,61.3,9.5,4.9,3
+Country,Data,Values
+Very high,Score,0.896
+High,Score,0.754
+Medium,Score,0.636
+Low,Score,0.518
+Very high,LifeExp,78.5
+High,LifeExp,74.7
+Medium,LifeExp,67.4
+Low,LifeExp,61.3
+Very high,GNIperCapita,44
+High,GNIperCapita,15
+Medium,GNIperCapita,6
+Low,GNIperCapita,3
+Very high,MeanSchYrs,12.3
+High,MeanSchYrs,8.3
+Medium,MeanSchYrs,6.9
+Low,MeanSchYrs,4.9
+Very high,ExpSchYrs,16.5
+High,ExpSchYrs,14.2
+Medium,ExpSchYrs,11.9
+Low,ExpSchYrs,9.5
