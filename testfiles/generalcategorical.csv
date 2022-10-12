@@ -1,12 +1,12 @@
-Country,Data,Values
+Tier,Data,Values
 Very high,Score,0.896
 High,Score,0.754
 Medium,Score,0.636
 Low,Score,0.518
-Very high,LifeExp,78.5
-High,LifeExp,74.7
-Medium,LifeExp,67.4
-Low,LifeExp,61.3
+Very high,LifeExp,7.85
+High,LifeExp,7.47
+Medium,LifeExp,6.74
+Low,LifeExp,6.13
 Very high,GNIperCapita,43.75
 High,GNIperCapita,15.17
 Medium,GNIperCapita,6.35
