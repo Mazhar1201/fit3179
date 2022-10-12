@@ -1,5 +1,5 @@
-Tier,Score,LifeExp,ExpSchYrs,MeanSchYrs,GNIperCapita
-Very high,0.896,78.5,16.5,12.3,"43,752"
-High,0.754,74.7,14.2,8.3,"15,167"
-Medium,0.636,67.4,11.9,6.9,"6,353"
-Low,0.518,61.3,9.5,4.9,"3,009"
+Country,CurrentScore,LifeExp,ExpSchYrs,MeanSchYrs,GNIperCapita
+Very high,0.896,78.5,16.5,12.3,44
+High,0.754,74.7,14.2,8.3,15
+Medium,0.636,67.4,11.9,6.9,6
+Low,0.518,61.3,9.5,4.9,3
