@@ -1,10 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Human Devolpment Index</title>
+    
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <script src="embed.js"></script>
+
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+
+    <title>HDI</title>
 </head>
+
 <body>
-    <h1>Heading 1</h1>
-    <p>Lorem Ipsum.</p>
+  <h1>Human Development Index</h1>
+
+  <div class="pure-g">
+    <div class="pure-u-1">
+      <p>The Human Development Index (commonly referred to as <b>HDI</b>) is a measure used globably to rank countries. 
+        The ranking is based on three key aspects: healthcare, education and income.
+        High scores of HDI are defined by a country's citizens having long life expectancies, a long period of education and a high level of income.
+        <br><br>
+          
+      </p>
+      <div id="map"></div>
+    </div>
+
+
+    <div class="pure-u-1-2">
+      <p><h2>General Overview</h2>
+        HDI are split into 4 ranks: Very High, High, Medium and Low.<br>
+        What are the average coefficients for each rank? 
+      </p>
+      <div id="gen"></div>
+    </div>
+
+    <div class="pure-u-1-2">
+      <p>
+        <h2>Years of School</h2>
+         Education is split into two coeffecients: mean years of schooling and expected yeard of schooling.<br>
+         How strong is education as an indicator of a good HDI score?
+      </p>
+      <div id="dumbb"></div>
+    </div>
+
+  </div>
+    
+
 </body>
 </html>
