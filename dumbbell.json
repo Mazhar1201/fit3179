@@ -3,15 +3,6 @@
     "description": "A ranged dot plot that uses 'layer' to convey changing life expectancy for the five most populous countries (between 1955 and 2000).",
     "data": {"url": "https://raw.githubusercontent.com/Mazhar1201/fit3179/main/rangeddot.csv"},
     "width":500,
-    "selection": {
-        "org":{
-            "type": "single", 
-            "fields": ["Continent"],
-            "bind": {
-            "input": "select", 
-            "options": ["Africa","Asia","Australia","Europe","North America","South America"]}
-    }
-},
     "encoding": {
       "x": {
         "field": "SchYrs",
