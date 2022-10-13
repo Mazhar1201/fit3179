@@ -1,0 +1,21 @@
+Tier,Data,Values
+Very high,Score,0.896
+High,Score,0.754
+Medium,Score,0.636
+Low,Score,0.518
+Very high,LifeExp,7.85
+High,LifeExp,7.47
+Medium,LifeExp,6.74
+Low,LifeExp,6.13
+Very high,GNIperCapita,43.75
+High,GNIperCapita,15.17
+Medium,GNIperCapita,6.35
+Low,GNIperCapita,3.01
+Very high,MeanSchYrs,12.3
+High,MeanSchYrs,8.3
+Medium,MeanSchYrs,6.9
+Low,MeanSchYrs,4.9
+Very high,ExpSchYrs,16.5
+High,ExpSchYrs,14.2
+Medium,ExpSchYrs,11.9
+Low,ExpSchYrs,9.5
