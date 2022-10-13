@@ -28,7 +28,7 @@
                 "lookup": "properties.NAME",
                 "from": {
                   "data": {
-                    "url": "https://raw.githubusercontent.com/Mazhar1201/fit3179/main/testfiles/map.csv"
+                    "url": "https://raw.githubusercontent.com/Mazhar1201/fit3179/main/map.csv"
                   },
                   "key": "Country",
                   "fields": ["CurrentScore", "CurrentRank"]
