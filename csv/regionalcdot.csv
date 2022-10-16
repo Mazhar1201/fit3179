@@ -1,0 +1,15 @@
+Region,CurrentScore,LifeExp,Value,Years,GNIperCapita
+Africa,0.557055556,62.9462963,Mean Years of Schooling,5.716666667,5344.055556
+Asia,0.743186047,73.65116279,Mean Years of Schooling,9.125581395,22396.18605
+Australia,0.699846154,70.60769231,Mean Years of Schooling,9.738461538,12117.69231
+Europe,0.875255319,78.28723404,Mean Years of Schooling,12.12978723,40920.12766
+North America,0.740863636,72.53181818,Mean Years of Schooling,9.236363636,16214.04545
+South America,0.754833333,71.825,Mean Years of Schooling,9.575,14873.08333
+World,0.732,71.4,Mean Years of Schooling,8.6,"16,752"
+Africa,0.557055556,62.9462963,Expected Years of Schooling,10.95185185,5344.055556
+Asia,0.743186047,73.65116279,Expected Years of Schooling,13.41162791,22396.18605
+Australia,0.699846154,70.60769231,Expected Years of Schooling,13.49230769,12117.69231
+Europe,0.875255319,78.28723404,Expected Years of Schooling,16.15106383,40920.12766
+North America,0.740863636,72.53181818,Expected Years of Schooling,13.82272727,16214.04545
+South America,0.754833333,71.825,Expected Years of Schooling,14.8,14873.08333
+World,0.732,71.4,Expected Years of Schooling,12.8,"16,752"
