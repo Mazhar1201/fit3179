@@ -1,196 +1,192 @@
 CurrentRank,Country,CurrentScore,LifeExp,GNIperCapita,Continent,Status
-1,Switzerland,0.962,84,"66,933",Europe,Very High
-2,Norway,0.961,83.2,"64,660",Europe,Very High
-3,Iceland,0.959,82.7,"55,782",Europe,Very High
-4,"Hong Kong, China (SAR)",0.952,85.5,"62,607",Asia,Very High
-5,Australia,0.951,84.5,"49,238",Australia,Very High
-6,Denmark,0.948,81.4,"60,365",Europe,Very High
-7,Sweden,0.947,83,"54,489",Europe,Very High
-8,Ireland,0.945,82,"76,169",Europe,Very High
-9,Germany,0.942,80.6,"54,534",Europe,Very High
-10,Netherlands,0.941,81.7,"55,979",Europe,Very High
-11,Finland,0.94,82,"49,452",Europe,Very High
-12,Singapore,0.939,82.8,"90,919",Asia,Very High
-13,Belgium,0.937,81.9,"52,293",Europe,Very High
-13,New Zealand,0.937,82.5,"44,057",Australia,Very High
-15,Canada,0.936,82.7,"46,808",Europe,Very High
-16,Liechtenstein,0.935,83.3,"146,830",Europe,Very High
-17,Luxembourg,0.93,82.6,"84,649",Europe,Very High
-18,United Kingdom,0.929,80.7,"45,225",Europe,Very High
-19,Japan,0.925,84.8,"42,274",Asia,Very High
-19,South Korea,0.925,83.7,"44,501",Asia,Very High
-21,United States of America,0.921,77.2,"64,765",North America,Very High
-22,Israel,0.919,82.3,"41,524",Asia,Very High
-23,Malta,0.918,83.8,"38,884",Europe,Very High
-23,Slovenia,0.918,80.7,"39,746",Europe,Very High
-25,Austria,0.916,81.6,"53,619",Europe,Very High
-26,United Arab Emirates,0.911,78.7,"62,574",Asia,Very High
-27,Spain,0.905,83,"38,354",Europe,Very High
-28,France,0.903,82.5,"45,937",Europe,Very High
-29,Cyprus,0.896,81.2,"38,188",Europe,Very High
-30,Italy,0.895,82.9,"42,840",Europe,Very High
-31,Estonia,0.89,77.1,"38,048",Europe,Very High
-32,Czechia,0.889,77.7,"38,745",Europe,Very High
-33,Greece,0.887,80.1,"29,002",Europe,Very High
-34,Poland,0.876,76.5,"33,034",Europe,Very High
-35,Bahrain,0.875,78.8,"39,497",Asia,Very High
-35,Lithuania,0.875,73.7,"37,931",Europe,Very High
-35,Saudi Arabia,0.875,76.9,"46,112",Asia,Very High
-38,Portugal,0.866,81,"33,155",Europe,Very High
-39,Latvia,0.863,73.6,"32,803",Europe,Very High
-40,Andorra,0.858,80.4,"51,167",Europe,Very High
-40,Croatia,0.858,77.6,"30,132",Europe,Very High
-42,Chile,0.855,78.9,"24,563",South America,Very High
-42,Qatar,0.855,79.3,"87,134",Asia,Very High
-44,San Marino,0.853,80.9,"52,654",Europe,Very High
-45,Slovakia,0.848,74.9,"30,690",Europe,Very High
-46,Hungary,0.846,74.5,"32,789",Europe,Very High
-47,Argentina,0.842,75.4,"20,925",South America,Very High
-48,Turkey,0.838,76,"31,033",Europe,Very High
-49,Montenegro,0.832,76.3,"20,839",Europe,Very High
-50,Kuwait,0.831,78.7,"52,920",Asia,Very High
-51,Brunei,0.829,74.6,"64,490",Asia,Very High
-52,Russia,0.822,69.4,"27,166",Europe,Very High
-53,Romania,0.821,74.2,"30,027",Europe,Very High
-54,Oman,0.816,72.5,"27,054",Asia,Very High
-55,Bahamas,0.812,71.6,"30,486",North America,Very High
-56,Kazakhstan,0.811,69.4,"23,943",Asia,Very High
-57,Trinidad and Tobago,0.81,73,"23,392",North America,Very High
-58,Costa Rica,0.809,77,"19,974",North America,Very High
-58,Uruguay,0.809,75.4,"21,269",South America,Very High
-60,Belarus,0.808,72.4,"18,849",Europe,Very High
-61,Panama,0.805,76.2,"26,957",North America,Very High
-62,Malaysia,0.803,74.9,"26,658",Asia,Very High
-63,Georgia,0.802,71.7,"14,664",Europe,Very High
-63,Mauritius,0.802,73.6,"22,025",Africa,Very High
-63,Serbia,0.802,74.2,"19,123",Europe,Very High
-66,Thailand,0.8,78.7,"17,030",Asia,Very High
-67,Albania,0.796,76.5,"14,131",Europe,High
-68,Bulgaria,0.795,71.8,"23,079",Europe,High
-68,Grenada,0.795,74.9,"13,484",North America,High
-70,Barbados,0.79,77.6,"12,306",North America,High
-71,Antigua and Barbuda,0.788,78.5,"16,792",North America,High
-72,Seychelles,0.785,71.3,"25,831",Africa,High
-73,Sri Lanka,0.782,76.4,"12,578",Asia,High
-74,Bosnia and Herz.,0.78,75.3,"15,242",Europe,High
-75,Saint Kitts and Nevis,0.777,71.7,"23,358",North America,High
-76,Iran,0.774,73.9,"13,001",Asia,High
-77,Ukraine,0.773,71.6,"13,256",Europe,High
-78,Macedonia,0.77,73.8,"15,918",Europe,High
-79,China,0.768,78.2,"17,504",Asia,High
-80,Dominican Rep.,0.767,72.6,"17,990",North America,High
-80,Moldova,0.767,68.8,"14,875",Europe,High
-80,Palau,0.767,66,"13,819",Australia,High
-83,Cuba,0.764,73.7,"7,879",North America,High
-84,Peru,0.762,72.4,"12,246",South America,High
-85,Armenia,0.759,72,"13,158",Europe,High
-86,Mexico,0.758,70.2,"17,896",North America,High
-87,Brazil,0.754,72.8,"14,370",South America,High
-88,Colombia,0.752,72.8,"14,384",South America,High
-89,Saint Vincent and the Grenadines,0.751,69.6,"11,961",North America,High
-90,Maldives,0.747,79.9,"15,448",Asia,High
-91,Algeria,0.745,76.4,"10,800",Africa,High
-91,Azerbaijan,0.745,69.4,"14,257",Asia,High
-91,Tonga,0.745,71,"6,822",Australia,High
-91,Turkmenistan,0.745,69.3,"13,021",Asia,High
-95,Ecuador,0.74,73.7,"10,312",South America,High
-96,Mongolia,0.739,71,"10,588",Asia,High
-97,Egypt,0.731,70.2,"11,732",Africa,High
-97,Tunisia,0.731,73.8,"10,258",Africa,High
-99,Fiji,0.73,67.1,"9,980",Australia,High
-99,Suriname,0.73,70.3,"12,672",South America,High
-101,Uzbekistan,0.727,70.9,"7,917",Asia,High
-102,Dominica,0.72,72.8,"11,488",North America,High
-102,Jordan,0.72,74.3,"9,924",Asia,High
-104,Libya,0.718,71.9,"15,336",Africa,High
-105,Paraguay,0.717,70.3,"12,349",South America,High
-106,Palestine,0.715,73.5,"6,583",Asia,High
-106,Saint Lucia,0.715,71.1,"12,048",North America,High
-108,Guyana,0.714,65.7,"22,465",South America,High
-109,South Africa,0.713,62.3,"12,948",Africa,High
-110,Jamaica,0.709,70.5,"8,834",North America,High
-111,Samoa,0.707,72.8,"5,308",Australia,High
-112,Gabon,0.706,65.8,"13,367",Africa,High
-112,Lebanon,0.706,75,"9,526",Asia,High
-114,Indonesia,0.705,67.6,"11,466",Asia,High
-115,Vietnam,0.703,73.6,"7,867",Asia,High
-116,Philippines,0.699,69.3,"8,920",Asia,Medium
-117,Botswana,0.693,61.1,"16,198",Africa,Medium
-118,Bolivia,0.692,63.6,"8,111",South America,Medium
-118,Kyrgyzstan,0.692,70,"4,566",Asia,Medium
-120,Venezuela,0.691,70.6,"4,811",South America,Medium
-121,Iraq,0.686,70.4,"9,977",Asia,Medium
-122,Tajikistan,0.685,71.6,"4,548",Asia,Medium
-123,Belize,0.683,70.5,"6,309",North America,Medium
-123,Morocco,0.683,74,"7,303",Africa,Medium
-125,El Salvador,0.675,70.7,"8,296",North America,Medium
-126,Nicaragua,0.667,73.8,"5,625",North America,Medium
-127,Bhutan,0.666,71.8,"9,438",Asia,Medium
-128,Cabo Verde,0.662,74.1,"6,230",Africa,Medium
-129,Bangladesh,0.661,72.4,"5,472",Asia,Medium
-130,Tuvalu,0.641,64.5,"6,351",Australia,Medium
-131,Marshall Islands,0.639,65.3,"4,620",Australia,Medium
-132,India,0.633,67.2,"6,590",Asia,Medium
-133,Ghana,0.632,63.8,"5,745",Africa,Medium
-134,Micronesia,0.628,70.7,"3,696",Australia,Medium
-135,Guatemala,0.627,69.2,"8,723",North America,Medium
-136,Kiribati,0.624,67.4,"4,063",Australia,Medium
-137,Honduras,0.621,70.1,"5,298",North America,Medium
-138,Sao Tome and Principe,0.618,67.6,"4,021",Africa,Medium
-139,Namibia,0.615,59.3,"8,634",Africa,Medium
-140,Laos,0.607,68.1,"7,700",Asia,Medium
-140,Timor-Leste,0.607,67.7,"4,461",Asia,Medium
-140,Vanuatu,0.607,70.4,"3,085",Australia,Medium
-143,Nepal,0.602,68.4,"3,877",Asia,Medium
-144,eSwatini,0.597,57.1,"7,679",Africa,Medium
-145,Eq. Guinea,0.596,60.6,"12,074",Africa,Medium
-146,Cambodia,0.593,69.6,"4,079",Asia,Medium
-146,Zimbabwe,0.593,59.3,"3,810",Africa,Medium
-148,Angola,0.586,61.6,"5,466",Africa,Medium
-149,Myanmar,0.585,65.7,"3,851",Asia,Medium
-150,Syria,0.577,72.1,"4,192",Asia,Medium
-151,Cameroon,0.576,60.3,"3,621",Africa,Medium
-152,Kenya,0.575,61.4,"4,474",Africa,Medium
-153,Congo,0.571,63.5,"2,889",Africa,Medium
-154,Zambia,0.565,61.2,"3,218",Africa,Medium
-155,Solomon Is.,0.564,70.3,"2,482",Australia,Medium
-156,Comoros,0.558,63.4,"3,142",Africa,Medium
-156,Papua New Guinea,0.558,65.4,"4,009",Australia,Medium
-158,Mauritania,0.556,64.4,"5,075",Africa,Medium
-159,Côte d'Ivoire,0.55,58.6,"5,217",Africa,Medium
-160,Tanzania,0.549,66.2,"2,664",Africa,Low
-161,Pakistan,0.544,66.1,"4,624",Asia,Low
-162,Togo,0.539,61.6,"2,167",Africa,Low
-163,Haiti,0.535,63.2,"2,848",North America,Low
-163,Nigeria,0.535,52.7,"4,790",Africa,Low
-165,Rwanda,0.534,66.1,"2,210",Africa,Low
-166,Benin,0.525,59.8,"3,409",Africa,Low
-166,Uganda,0.525,62.7,"2,181",Africa,Low
-168,Lesotho,0.514,53.1,"2,700",Africa,Low
-169,Malawi,0.512,62.9,"1,466",Africa,Low
-170,Senegal,0.511,67.1,"3,344",Africa,Low
-171,Djibouti,0.509,62.3,"5,025",Africa,Low
-172,Sudan,0.508,65.3,"3,575",Africa,Low
-173,Madagascar,0.501,64.5,"1,484",Africa,Low
-174,Gambia,0.5,62.1,"2,172",Africa,Low
-175,Ethiopia,0.498,65,"2,361",Africa,Low
-176,Eritrea,0.492,66.5,"1,729",Africa,Low
-177,Guinea-Bissau,0.483,59.7,"1,908",Africa,Low
-178,Liberia,0.481,60.7,"1,289",Africa,Low
-179,Dem. Rep. Congo,0.479,59.2,"1,076",Africa,Low
-180,Afghanistan,0.478,62,"1,824",Asia,Low
-181,Sierra Leone,0.477,60.1,"1,622",Africa,Low
-182,Guinea,0.465,58.9,"2,481",Africa,Low
-183,Yemen,0.455,63.8,"1,314",Africa,Low
-184,Burkina Faso,0.449,59.3,"2,118",Africa,Low
-185,Mozambique,0.446,59.3,"1,198",Africa,Low
-186,Mali,0.428,58.9,"2,133",Africa,Low
-187,Burundi,0.426,61.7,732,Africa,Low
-188,Central African Rep.,0.404,53.9,966,Africa,Low
-189,Niger,0.4,61.6,"1,240",Africa,Low
-190,Chad,0.394,52.5,"1,364",Africa,Low
-191,S. Sudan,0.385,55,768,Africa,Low
-NA,North Korea,NA,73.3,NA,Asia,NA
-NA,Monaco,NA,85.9,NA,Europe,NA
-NA,Nauru,NA,63.6,"17,730",Australia,NA
-NA,Somalia,NA,55.3,"1,018",Africa,NA
+1,Switzerland,0.962,84,66933.00,Europe,Very High
+2,Norway,0.961,83.2,64660.00,Europe,Very High
+3,Iceland,0.959,82.7,55782.00,Europe,Very High
+4,"Hong Kong, China (SAR)",0.952,85.5,62607.00,Asia,Very High
+5,Australia,0.951,84.5,49238.00,Australia,Very High
+6,Denmark,0.948,81.4,60365.00,Europe,Very High
+7,Sweden,0.947,83,54489.00,Europe,Very High
+8,Ireland,0.945,82,76169.00,Europe,Very High
+9,Germany,0.942,80.6,54534.00,Europe,Very High
+10,Netherlands,0.941,81.7,55979.00,Europe,Very High
+11,Finland,0.94,82,49452.00,Europe,Very High
+12,Singapore,0.939,82.8,90919.00,Asia,Very High
+13,Belgium,0.937,81.9,52293.00,Europe,Very High
+13,New Zealand,0.937,82.5,44057.00,Australia,Very High
+15,Canada,0.936,82.7,46808.00,Europe,Very High
+16,Liechtenstein,0.935,83.3,146830.00,Europe,Very High
+17,Luxembourg,0.93,82.6,84649.00,Europe,Very High
+18,United Kingdom,0.929,80.7,45225.00,Europe,Very High
+19,Japan,0.925,84.8,42274.00,Asia,Very High
+19,South Korea,0.925,83.7,44501.00,Asia,Very High
+21,United States of America,0.921,77.2,64765.00,North America,Very High
+22,Israel,0.919,82.3,41524.00,Asia,Very High
+23,Malta,0.918,83.8,38884.00,Europe,Very High
+23,Slovenia,0.918,80.7,39746.00,Europe,Very High
+25,Austria,0.916,81.6,53619.00,Europe,Very High
+26,United Arab Emirates,0.911,78.7,62574.00,Asia,Very High
+27,Spain,0.905,83,38354.00,Europe,Very High
+28,France,0.903,82.5,45937.00,Europe,Very High
+29,Cyprus,0.896,81.2,38188.00,Europe,Very High
+30,Italy,0.895,82.9,42840.00,Europe,Very High
+31,Estonia,0.89,77.1,38048.00,Europe,Very High
+32,Czechia,0.889,77.7,38745.00,Europe,Very High
+33,Greece,0.887,80.1,29002.00,Europe,Very High
+34,Poland,0.876,76.5,33034.00,Europe,Very High
+35,Bahrain,0.875,78.8,39497.00,Asia,Very High
+35,Lithuania,0.875,73.7,37931.00,Europe,Very High
+35,Saudi Arabia,0.875,76.9,46112.00,Asia,Very High
+38,Portugal,0.866,81,33155.00,Europe,Very High
+39,Latvia,0.863,73.6,32803.00,Europe,Very High
+40,Andorra,0.858,80.4,51167.00,Europe,Very High
+40,Croatia,0.858,77.6,30132.00,Europe,Very High
+42,Chile,0.855,78.9,24563.00,South America,Very High
+42,Qatar,0.855,79.3,87134.00,Asia,Very High
+44,San Marino,0.853,80.9,52654.00,Europe,Very High
+45,Slovakia,0.848,74.9,30690.00,Europe,Very High
+46,Hungary,0.846,74.5,32789.00,Europe,Very High
+47,Argentina,0.842,75.4,20925.00,South America,Very High
+48,Turkey,0.838,76,31033.00,Europe,Very High
+49,Montenegro,0.832,76.3,20839.00,Europe,Very High
+50,Kuwait,0.831,78.7,52920.00,Asia,Very High
+51,Brunei,0.829,74.6,64490.00,Asia,Very High
+52,Russia,0.822,69.4,27166.00,Europe,Very High
+53,Romania,0.821,74.2,30027.00,Europe,Very High
+54,Oman,0.816,72.5,27054.00,Asia,Very High
+55,Bahamas,0.812,71.6,30486.00,North America,Very High
+56,Kazakhstan,0.811,69.4,23943.00,Asia,Very High
+57,Trinidad and Tobago,0.81,73,23392.00,North America,Very High
+58,Costa Rica,0.809,77,19974.00,North America,Very High
+58,Uruguay,0.809,75.4,21269.00,South America,Very High
+60,Belarus,0.808,72.4,18849.00,Europe,Very High
+61,Panama,0.805,76.2,26957.00,North America,Very High
+62,Malaysia,0.803,74.9,26658.00,Asia,Very High
+63,Georgia,0.802,71.7,14664.00,Europe,Very High
+63,Mauritius,0.802,73.6,22025.00,Africa,Very High
+63,Serbia,0.802,74.2,19123.00,Europe,Very High
+66,Thailand,0.8,78.7,17030.00,Asia,Very High
+67,Albania,0.796,76.5,14131.00,Europe,High
+68,Bulgaria,0.795,71.8,23079.00,Europe,High
+68,Grenada,0.795,74.9,13484.00,North America,High
+70,Barbados,0.79,77.6,12306.00,North America,High
+71,Antigua and Barbuda,0.788,78.5,16792.00,North America,High
+72,Seychelles,0.785,71.3,25831.00,Africa,High
+73,Sri Lanka,0.782,76.4,12578.00,Asia,High
+74,Bosnia and Herz.,0.78,75.3,15242.00,Europe,High
+75,Saint Kitts and Nevis,0.777,71.7,23358.00,North America,High
+76,Iran,0.774,73.9,13001.00,Asia,High
+77,Ukraine,0.773,71.6,13256.00,Europe,High
+78,Macedonia,0.77,73.8,15918.00,Europe,High
+79,China,0.768,78.2,17504.00,Asia,High
+80,Dominican Rep.,0.767,72.6,17990.00,North America,High
+80,Moldova,0.767,68.8,14875.00,Europe,High
+80,Palau,0.767,66,13819.00,Australia,High
+83,Cuba,0.764,73.7,7879.00,North America,High
+84,Peru,0.762,72.4,12246.00,South America,High
+85,Armenia,0.759,72,13158.00,Europe,High
+86,Mexico,0.758,70.2,17896.00,North America,High
+87,Brazil,0.754,72.8,14370.00,South America,High
+88,Colombia,0.752,72.8,14384.00,South America,High
+89,Saint Vincent and the Grenadines,0.751,69.6,11961.00,North America,High
+90,Maldives,0.747,79.9,15448.00,Asia,High
+91,Algeria,0.745,76.4,10800.00,Africa,High
+91,Azerbaijan,0.745,69.4,14257.00,Asia,High
+91,Tonga,0.745,71,6822.00,Australia,High
+91,Turkmenistan,0.745,69.3,13021.00,Asia,High
+95,Ecuador,0.74,73.7,10312.00,South America,High
+96,Mongolia,0.739,71,10588.00,Asia,High
+97,Egypt,0.731,70.2,11732.00,Africa,High
+97,Tunisia,0.731,73.8,10258.00,Africa,High
+99,Fiji,0.73,67.1,9980.00,Australia,High
+99,Suriname,0.73,70.3,12672.00,South America,High
+101,Uzbekistan,0.727,70.9,7917.00,Asia,High
+102,Dominica,0.72,72.8,11488.00,North America,High
+102,Jordan,0.72,74.3,9924.00,Asia,High
+104,Libya,0.718,71.9,15336.00,Africa,High
+105,Paraguay,0.717,70.3,12349.00,South America,High
+106,Palestine,0.715,73.5,6583.00,Asia,High
+106,Saint Lucia,0.715,71.1,12048.00,North America,High
+108,Guyana,0.714,65.7,22465.00,South America,High
+109,South Africa,0.713,62.3,12948.00,Africa,High
+110,Jamaica,0.709,70.5,8834.00,North America,High
+111,Samoa,0.707,72.8,5308.00,Australia,High
+112,Gabon,0.706,65.8,13367.00,Africa,High
+112,Lebanon,0.706,75,9526.00,Asia,High
+114,Indonesia,0.705,67.6,11466.00,Asia,High
+115,Vietnam,0.703,73.6,7867.00,Asia,High
+116,Philippines,0.699,69.3,8920.00,Asia,Medium
+117,Botswana,0.693,61.1,16198.00,Africa,Medium
+118,Bolivia,0.692,63.6,8111.00,South America,Medium
+118,Kyrgyzstan,0.692,70,4566.00,Asia,Medium
+120,Venezuela,0.691,70.6,4811.00,South America,Medium
+121,Iraq,0.686,70.4,9977.00,Asia,Medium
+122,Tajikistan,0.685,71.6,4548.00,Asia,Medium
+123,Belize,0.683,70.5,6309.00,North America,Medium
+123,Morocco,0.683,74,7303.00,Africa,Medium
+125,El Salvador,0.675,70.7,8296.00,North America,Medium
+126,Nicaragua,0.667,73.8,5625.00,North America,Medium
+127,Bhutan,0.666,71.8,9438.00,Asia,Medium
+128,Cabo Verde,0.662,74.1,6230.00,Africa,Medium
+129,Bangladesh,0.661,72.4,5472.00,Asia,Medium
+130,Tuvalu,0.641,64.5,6351.00,Australia,Medium
+131,Marshall Islands,0.639,65.3,4620.00,Australia,Medium
+132,India,0.633,67.2,6590.00,Asia,Medium
+133,Ghana,0.632,63.8,5745.00,Africa,Medium
+134,Micronesia,0.628,70.7,3696.00,Australia,Medium
+135,Guatemala,0.627,69.2,8723.00,North America,Medium
+136,Kiribati,0.624,67.4,4063.00,Australia,Medium
+137,Honduras,0.621,70.1,5298.00,North America,Medium
+138,Sao Tome and Principe,0.618,67.6,4021.00,Africa,Medium
+139,Namibia,0.615,59.3,8634.00,Africa,Medium
+140,Laos,0.607,68.1,7700.00,Asia,Medium
+140,Timor-Leste,0.607,67.7,4461.00,Asia,Medium
+140,Vanuatu,0.607,70.4,3085.00,Australia,Medium
+143,Nepal,0.602,68.4,3877.00,Asia,Medium
+144,eSwatini,0.597,57.1,7679.00,Africa,Medium
+145,Eq. Guinea,0.596,60.6,12074.00,Africa,Medium
+146,Cambodia,0.593,69.6,4079.00,Asia,Medium
+146,Zimbabwe,0.593,59.3,3810.00,Africa,Medium
+148,Angola,0.586,61.6,5466.00,Africa,Medium
+149,Myanmar,0.585,65.7,3851.00,Asia,Medium
+150,Syria,0.577,72.1,4192.00,Asia,Medium
+151,Cameroon,0.576,60.3,3621.00,Africa,Medium
+152,Kenya,0.575,61.4,4474.00,Africa,Medium
+153,Congo,0.571,63.5,2889.00,Africa,Medium
+154,Zambia,0.565,61.2,3218.00,Africa,Medium
+155,Solomon Is.,0.564,70.3,2482.00,Australia,Medium
+156,Comoros,0.558,63.4,3142.00,Africa,Medium
+156,Papua New Guinea,0.558,65.4,4009.00,Australia,Medium
+158,Mauritania,0.556,64.4,5075.00,Africa,Medium
+159,Côte d'Ivoire,0.55,58.6,5217.00,Africa,Medium
+160,Tanzania,0.549,66.2,2664.00,Africa,Low
+161,Pakistan,0.544,66.1,4624.00,Asia,Low
+162,Togo,0.539,61.6,2167.00,Africa,Low
+163,Haiti,0.535,63.2,2848.00,North America,Low
+163,Nigeria,0.535,52.7,4790.00,Africa,Low
+165,Rwanda,0.534,66.1,2210.00,Africa,Low
+166,Benin,0.525,59.8,3409.00,Africa,Low
+166,Uganda,0.525,62.7,2181.00,Africa,Low
+168,Lesotho,0.514,53.1,2700.00,Africa,Low
+169,Malawi,0.512,62.9,1466.00,Africa,Low
+170,Senegal,0.511,67.1,3344.00,Africa,Low
+171,Djibouti,0.509,62.3,5025.00,Africa,Low
+172,Sudan,0.508,65.3,3575.00,Africa,Low
+173,Madagascar,0.501,64.5,1484.00,Africa,Low
+174,Gambia,0.5,62.1,2172.00,Africa,Low
+175,Ethiopia,0.498,65,2361.00,Africa,Low
+176,Eritrea,0.492,66.5,1729.00,Africa,Low
+177,Guinea-Bissau,0.483,59.7,1908.00,Africa,Low
+178,Liberia,0.481,60.7,1289.00,Africa,Low
+179,Dem. Rep. Congo,0.479,59.2,1076.00,Africa,Low
+180,Afghanistan,0.478,62,1824.00,Asia,Low
+181,Sierra Leone,0.477,60.1,1622.00,Africa,Low
+182,Guinea,0.465,58.9,2481.00,Africa,Low
+183,Yemen,0.455,63.8,1314.00,Africa,Low
+184,Burkina Faso,0.449,59.3,2118.00,Africa,Low
+185,Mozambique,0.446,59.3,1198.00,Africa,Low
+186,Mali,0.428,58.9,2133.00,Africa,Low
+187,Burundi,0.426,61.7,732.00,Africa,Low
+188,Central African Rep.,0.404,53.9,966.00,Africa,Low
+189,Niger,0.4,61.6,1240.00,Africa,Low
+190,Chad,0.394,52.5,1364.00,Africa,Low
+191,S. Sudan,0.385,55,768.00,Africa,Low
