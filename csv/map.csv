@@ -1,0 +1,192 @@
+CurrentRank,Country,CurrentScore,Continent,Status
+1,Switzerland,0.962,Europe,Very High
+2,Norway,0.961,Europe,Very High
+3,Iceland,0.959,Europe,Very High
+4,"Hong Kong, China (SAR)",0.952,Asia,Very High
+5,Australia,0.951,Australia,Very High
+6,Denmark,0.948,Europe,Very High
+7,Sweden,0.947,Europe,Very High
+8,Ireland,0.945,Europe,Very High
+9,Germany,0.942,Europe,Very High
+10,Netherlands,0.941,Europe,Very High
+11,Finland,0.940,Europe,Very High
+12,Singapore,0.939,Asia,Very High
+13,Belgium,0.937,Europe,Very High
+13,New Zealand,0.937,Australia,Very High
+15,Canada,0.936,Europe,Very High
+16,Liechtenstein,0.935,Europe,Very High
+17,Luxembourg,0.930,Europe,Very High
+18,United Kingdom,0.929,Europe,Very High
+19,Japan,0.925,Asia,Very High
+19,South Korea,0.925,Asia,Very High
+21,United States of America,0.921,North America,Very High
+22,Israel,0.919,Asia,Very High
+23,Malta,0.918,Europe,Very High
+23,Slovenia,0.918,Europe,Very High
+25,Austria,0.916,Europe,Very High
+26,United Arab Emirates,0.911,Asia,Very High
+27,Spain,0.905,Europe,Very High
+28,France,0.903,Europe,Very High
+29,Cyprus,0.896,Europe,Very High
+30,Italy,0.895,Europe,Very High
+31,Estonia,0.890,Europe,Very High
+32,Czechia,0.889,Europe,Very High
+33,Greece,0.887,Europe,Very High
+34,Poland,0.876,Europe,Very High
+35,Bahrain,0.875,Asia,Very High
+35,Lithuania,0.875,Europe,Very High
+35,Saudi Arabia,0.875,Asia,Very High
+38,Portugal,0.866,Europe,Very High
+39,Latvia,0.863,Europe,Very High
+40,Andorra,0.858,Europe,Very High
+40,Croatia,0.858,Europe,Very High
+42,Chile,0.855,South America,Very High
+42,Qatar,0.855,Asia,Very High
+44,San Marino,0.853,Europe,Very High
+45,Slovakia,0.848,Europe,Very High
+46,Hungary,0.846,Europe,Very High
+47,Argentina,0.842,South America,Very High
+48,Turkey,0.838,Europe,Very High
+49,Montenegro,0.832,Europe,Very High
+50,Kuwait,0.831,Asia,Very High
+51,Brunei,0.829,Asia,Very High
+52,Russia,0.822,Europe,Very High
+53,Romania,0.821,Europe,Very High
+54,Oman,0.816,Asia,Very High
+55,Bahamas,0.812,North America,Very High
+56,Kazakhstan,0.811,Asia,Very High
+57,Trinidad and Tobago,0.810,North America,Very High
+58,Costa Rica,0.809,North America,Very High
+58,Uruguay,0.809,South America,Very High
+60,Belarus,0.808,Europe,Very High
+61,Panama,0.805,North America,Very High
+62,Malaysia,0.803,Asia,Very High
+63,Georgia,0.802,Europe,Very High
+63,Mauritius,0.802,Africa,Very High
+63,Serbia,0.802,Europe,Very High
+66,Thailand,0.800,Asia,Very High
+67,Albania,0.796,Europe,High
+68,Bulgaria,0.795,Europe,High
+68,Grenada,0.795,North America,High
+70,Barbados,0.790,North America,High
+71,Antigua and Barbuda,0.788,North America,High
+72,Seychelles,0.785,Africa,High
+73,Sri Lanka,0.782,Asia,High
+74,Bosnia and Herz.,0.780,Europe,High
+75,Saint Kitts and Nevis,0.777,North America,High
+76,Iran,0.774,Asia,High
+77,Ukraine,0.773,Europe,High
+78,Macedonia,0.770,Europe,High
+79,China,0.768,Asia,High
+80,Dominican Rep.,0.767,North America,High
+80,Moldova,0.767,Europe,High
+80,Palau,0.767,Australia,High
+83,Cuba,0.764,North America,High
+84,Peru,0.762,South America,High
+85,Armenia,0.759,Europe,High
+86,Mexico,0.758,North America,High
+87,Brazil,0.754,South America,High
+88,Colombia,0.752,South America,High
+89,Saint Vincent and the Grenadines,0.751,North America,High
+90,Maldives,0.747,Asia,High
+91,Algeria,0.745,Africa,High
+91,Azerbaijan,0.745,Asia,High
+91,Tonga,0.745,Australia,High
+91,Turkmenistan,0.745,Asia,High
+95,Ecuador,0.740,South America,High
+96,Mongolia,0.739,Asia,High
+97,Egypt,0.731,Africa,High
+97,Tunisia,0.731,Africa,High
+99,Fiji,0.730,Australia,High
+99,Suriname,0.730,South America,High
+101,Uzbekistan,0.727,Asia,High
+102,Dominica,0.720,North America,High
+102,Jordan,0.720,Asia,High
+104,Libya,0.718,Africa,High
+105,Paraguay,0.717,South America,High
+106,Palestine,0.715,Asia,High
+106,Saint Lucia,0.715,North America,High
+108,Guyana,0.714,South America,High
+109,South Africa,0.713,Africa,High
+110,Jamaica,0.709,North America,High
+111,Samoa,0.707,Australia,High
+112,Gabon,0.706,Africa,High
+112,Lebanon,0.706,Asia,High
+114,Indonesia,0.705,Asia,High
+115,Vietnam,0.703,Asia,High
+116,Philippines,0.699,Asia,Medium
+117,Botswana,0.693,Africa,Medium
+118,Bolivia,0.692,South America,Medium
+118,Kyrgyzstan,0.692,Asia,Medium
+120,Venezuela,0.691,South America,Medium
+121,Iraq,0.686,Asia,Medium
+122,Tajikistan,0.685,Asia,Medium
+123,Belize,0.683,North America,Medium
+123,Morocco,0.683,Africa,Medium
+125,El Salvador,0.675,North America,Medium
+126,Nicaragua,0.667,North America,Medium
+127,Bhutan,0.666,Asia,Medium
+128,Cabo Verde,0.662,Africa,Medium
+129,Bangladesh,0.661,Asia,Medium
+130,Tuvalu,0.641,Australia,Medium
+131,Marshall Islands,0.639,Australia,Medium
+132,India,0.633,Asia,Medium
+133,Ghana,0.632,Africa,Medium
+134,Micronesia,0.628,Australia,Medium
+135,Guatemala,0.627,North America,Medium
+136,Kiribati,0.624,Australia,Medium
+137,Honduras,0.621,North America,Medium
+138,Sao Tome and Principe,0.618,Africa,Medium
+139,Namibia,0.615,Africa,Medium
+140,Laos,0.607,Asia,Medium
+140,Timor-Leste,0.607,Asia,Medium
+140,Vanuatu,0.607,Australia,Medium
+143,Nepal,0.602,Asia,Medium
+144,eSwatini,0.597,Africa,Medium
+145,Eq. Guinea,0.596,Africa,Medium
+146,Cambodia,0.593,Asia,Medium
+146,Zimbabwe,0.593,Africa,Medium
+148,Angola,0.586,Africa,Medium
+149,Myanmar,0.585,Asia,Medium
+150,Syria,0.577,Asia,Medium
+151,Cameroon,0.576,Africa,Medium
+152,Kenya,0.575,Africa,Medium
+153,Congo,0.571,Africa,Medium
+154,Zambia,0.565,Africa,Medium
+155,Solomon Is.,0.564,Australia,Medium
+156,Comoros,0.558,Africa,Medium
+156,Papua New Guinea,0.558,Australia,Medium
+158,Mauritania,0.556,Africa,Medium
+159,C�te d'Ivoire,0.550,Africa,Medium
+160,Tanzania,0.549,Africa,Low
+161,Pakistan,0.544,Asia,Low
+162,Togo,0.539,Africa,Low
+163,Haiti,0.535,North America,Low
+163,Nigeria,0.535,Africa,Low
+165,Rwanda,0.534,Africa,Low
+166,Benin,0.525,Africa,Low
+166,Uganda,0.525,Africa,Low
+168,Lesotho,0.514,Africa,Low
+169,Malawi,0.512,Africa,Low
+170,Senegal,0.511,Africa,Low
+171,Djibouti,0.509,Africa,Low
+172,Sudan,0.508,Africa,Low
+173,Madagascar,0.501,Africa,Low
+174,Gambia,0.500,Africa,Low
+175,Ethiopia,0.498,Africa,Low
+176,Eritrea,0.492,Africa,Low
+177,Guinea-Bissau,0.483,Africa,Low
+178,Liberia,0.481,Africa,Low
+179,Dem. Rep. Congo,0.479,Africa,Low
+180,Afghanistan,0.478,Asia,Low
+181,Sierra Leone,0.477,Africa,Low
+182,Guinea,0.465,Africa,Low
+183,Yemen,0.455,Africa,Low
+184,Burkina Faso,0.449,Africa,Low
+185,Mozambique,0.446,Africa,Low
+186,Mali,0.428,Africa,Low
+187,Burundi,0.426,Africa,Low
+188,Central African Rep.,0.404,Africa,Low
+189,Niger,0.400,Africa,Low
+190,Chad,0.394,Africa,Low
+191,S. Sudan,0.385,Africa,Low
