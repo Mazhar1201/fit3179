@@ -3,30 +3,30 @@
     "background":"whitesmoke",
     "vconcat":[
         {
-            "width":400,
-            "height":80,
+            "width":333,
+            "height":90,
             "mark":"bar",
             "encoding": {
                 "y": {"field":"Region","type": "nominal", "title": ""},
-                "x": {"field":"2021 HDI Score","type": "quantitative"}
+                "x": {"field":"2021 HDI Score","type": "quantitative", "title":"2021 HDI Score (Index)"}
               }
         },
         {
-            "width":400,
-            "height":80,
+            "width":333,
+            "height":90,
             "mark":"bar",
             "encoding": {
                 "y": {"field":"Region","type": "nominal"},
-                "x": {"field":"Life Expectancy","type": "quantitative"}
+                "x": {"field":"Life Expectancy","type": "quantitative", "title":"Life Expectancy (Years)"}
               }
         },
         {
-            "width":400,
-            "height":80,
+            "width":333,
+            "height":90,
             "mark":"bar",
             "encoding": {
                 "y": {"field":"Region","type": "nominal", "title": ""},
-                "x": {"field":"Gross National Income per Capita","type": "quantitative"}
+                "x": {"field":"Gross National Income per Capita","type": "quantitative", "title":"Gross National Income per Capita (US Dollars)"}
               }
         }
     ]

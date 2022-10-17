@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {"url": "https://raw.githubusercontent.com/Mazhar1201/fit3179/main/csv/regionalcdot.csv"},
   "background":"whitesmoke",
-  "width":400,
-  "height":200,
+  "width":340,
+  "height":300,
   "encoding": {
     "x": {
       "field": "Years",
@@ -44,7 +44,7 @@
           "type": "nominal",
           "scale": {
             "domain": ["Mean Years of Schooling", "Expected Years of Schooling"],
-            "range": ["#ff0000", "#00fff7 "]
+            "range": ["#AA29BB", "#97FF00"]
           },
           "title": "Data",
           "legend":{

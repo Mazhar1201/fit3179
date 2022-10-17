@@ -22,38 +22,52 @@
         "filter":"ContinentSelect == null || datum.Continent == ContinentSelect"
       }
     ],
-    "mark":"point",
-    "encoding": {
-      "x":{
-        "field":"GNIperCapita",
-        "type": "quantitative",
-        "title":"Gross National Income per capita"
-      },
-      "y":{
-        "field":"LifeExp",
-        "type": "quantitative",
-        "title": "Life Expectancy (years)",
-        "scale":{"zero":false}
-      },
-      "color":{
-        "field":"Status",
-        "type":"nominal",
-        "sort": ["Very High", "High", "Medium", "Low"],
-        "scale":{
-          "range":["#100080","#3898FF","#DEAF1A","#B30000"]
+    "layer":[
+      {"mark":"point",
+      "encoding": {
+        "x":{
+          "field":"GNIperCapita",
+          "type": "quantitative",
+          "title":"Gross National Income per capita (US Dollars)"
         },
-        "title":"HDI Status",
-        "legend":{
-          "direction":"horizontal",
-          "orient": "top"
-        }
+        "y":{
+          "field":"LifeExp",
+          "type": "quantitative",
+          "title": "Life Expectancy (years)",
+          "scale":{"zero":false}
+        },
+        "color":{
+          "field":"Status",
+          "type":"nominal",
+          "sort": ["Very High", "High", "Medium", "Low"],
+          "scale":{
+            "range":["#100080","#3898FF","#DEAF1A","#B30000"]
+          },
+          "title":"HDI Status",
+          "legend":{
+            "direction":"horizontal",
+            "orient": "top"
+          }
+        },
+        "tooltip":[
+          {"field":"Country","type": "nominal"},
+          {"field":"CurrentRank", "type": "quantitative", "title":"2021 HDI Status"},
+          {"field":"CurrentScore", "type": "quantitative", "title":"2021 HDI Score"},
+          {"field":"GNIperCapita","type": "quantitative", "title":"Gross National Income per Capita"},
+          {"field":"LifeExp","type": "quantitative", "title":"Life Expectancy"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type":"rule",
+        "color":"grey",
+        "size":1,
+        "strokeDash":[6,4]
       },
-      "tooltip":[
-        {"field":"Country","type": "nominal"},
-        {"field":"CurrentRank", "type": "quantitative"},
-        {"field":"CurrentScore", "type": "quantitative"},
-        {"field":"GNIperCapita","type": "quantitative"},
-        {"field":"LifeExp","type": "quantitative"}
-      ]
+      "encoding": {
+        "x":{"datum":40000}
+      }
     }
-  }  
+  ]  
+}  
