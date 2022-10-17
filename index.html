@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<body style="background-color:whitesmoke;">
+
 <head>
     
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
@@ -9,44 +11,133 @@
     <script src="embed.js"></script>
 
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Roboto&display=swap" rel="stylesheet">
 
-    <title>HDI</title>
+    <title>FIT3179A2, Author:32584768</title>
 </head>
 
 <body>
-  <h1>Human Development Index</h1>
-
+  <h1 class="title">Human Development Index</h1>
+  <h1 class="subtitle">Measuring the quality of life of a country.</h1>
+  <br>
+  <p class="extra">A visualisation by<br>Muhammad Mazhar Mohd Nazrin.</p>
+  <br>
+  <br>
+  
   <div class="pure-g">
     <div class="pure-u-1">
-      <p>The Human Development Index (commonly referred to as <b>HDI</b>) is a measure used globably to rank countries. 
-        The ranking is based on three key aspects: healthcare, education and income.
-        High scores of HDI are defined by a country's citizens having long life expectancies, a long period of education and a high level of income.
-        <br><br>
-          
+      <p class="section-1">
+        The index
       </p>
-      <div id="map"></div>
+      <p class="main-1"> 
+        The Human Development Index (commonly referred to as <b>HDI</b>) is a measure used globably to rank countries.<br>
+        Three important factors are considered for when taking measures for the index:
+      <ul class="list">
+        <li>healthcare - measured by life expectancy</li>
+        <li>education - measured by the mean and expected years of schooling</li>
+        <li>income - measured by the gross national income per person.</li>
+      </ul> 
+      <p class="main-1">
+        As it is an index, HDI scores will fall between 0.00 and 1.00. <br>
+        The greater the value of each measure,the higher the HDI score will be.<br>
+        HDI scores are spilt into four statuses: 
+        <span class="vh">very high</span>, <span class="h">high</span>, <span class="m">medium</span> and <span class="l">low.</span>.
+      </p>
+      <div id="map" class="vis-container-1"></div>
     </div>
-
 
     <div class="pure-u-1-2">
-      <p><h2>General Overview</h2>
-        HDI are split into 4 ranks: Very High, High, Medium and Low.<br>
-        What are the average coefficients for each rank? 
+      <p class="section-2">
+        Income vs Health
       </p>
-      <div id="gen"></div>
+      <p class="main-2"> 
+        Could one component of <b>HDI</b> explain another component?
+        It is a basic human desire to be healthy. Being healthy allows people to live their lives.
+        How can people ensure that they remain healthy?<br>
+        <br>
+        Money is power. That applies in many aspects in life. Having money provides people with the means to "buy" a longer life. 
+        And that is clearly demonstrated here.<br>
+        <br>
+        People in <span class="l">low</span> status countries have very little income, therefore unable to "buy" long lives.
+        As income increaes, life expectancy also rises. The trend is an inverse-exponential, dropping off around the 
+        $40,000 mark, after moving into the territory of countries with <span class="vh">very high</span> status.<br>
+        <br>
+        Even money has it's limits. Although, this is not to imply that money is the only factor to a long life.
+      </p>
+    </div>
+    <div class="pure-u-1-2">
+      <div id="scat" class="vis-container-2"></div>
     </div>
 
     <div class="pure-u-1-2">
-      <p>
-        <h2>Years of School</h2>
-         Education is split into two coeffecients: mean years of schooling and expected yeard of schooling.<br>
-         How strong is education as an indicator of a good HDI score?
+      <p class="section-2">
+        School Days
       </p>
-      <div id="dumbb"></div>
+      <p class="main-2"> 
+        Education is important. It is a constant reminder in this world. Without it, life will be difficult. 
+        The <b>HDI</b> definitely agrees.<br>
+        <br>
+        Comparing this plot to the map. It is clear that HDI considers education as a strong indicator
+        for human development. In Europe, there are no countries with a status lower than <span class="h">high</span>. 
+        Over in Africa, the majority comprises of <span class="l">low</span> status countries.<br>
+        <br>
+        The plot here tells all. Europe is the only region where the <span class="mn">mean</span> years of schooling is above 10 years.
+        On the other hand, Africa by far has the poorest education standards, sitting below 6 years.<br>
+        <br>
+        It would be unfair to insinate that African nations have impeded themselves. 
+        The region, on average, <span class="e">expects</span> close to 11 years of schooling. 
+        There could be plenty of underlying factors which contribute to the shortcomings of education in the region.
+      </p>
+    </div>
+    <div class="pure-u-1-2">
+      <div id="cdot" class="vis-container-2"></div>
+    </div>
+    
+
+    <div class="pure-u-1-2">
+      <p class="section-2"> 
+        Relative Ranking
+      </p>
+      <p class="main-2">
+        Paired with the plot above, a comparison, among all regions, 
+        of the measures involved in calculating the <b>HDI</b> can be done.<br>
+        <br>
+        Europe ranks 1st in all categories by a hefty gap, with life expectancy being the sole exception.
+        For this measure, most regions, bar Africa, have values floating around the 75 years mark.
+        But for all other indicators, Europe has little competition.<br>
+        <br>
+        While Africa consistently ranks last in all categories, 2nd place is a close race between Asia and South America.
+        For most indicators, only a small gap separates the two regions. However, Asia overwhelmingly defeats South America 
+        on gross national income per person by around $5000.
+      </p>
+    </div>
+    <div class="pure-u-1-2">
+      <div id="mbar" class="vis-container-2"></div>
     </div>
 
+    <div class="pure-u-1">
+      <p class="section-1">
+        Winners and Losers
+      </p>
+      <p class = "main-1">
+        Some countries saw their position rise significantly between the year 2021, and the preceding year, 2020. <br>
+        Although, several others ended up falling instead. <br>
+        <br>
+        Keep in mind, these changes may not be self-inflicted. It could be the result of other countries' <b>HDI</b> scores changing.
+        So a country may not have made a step backwards in, or greatly improved on, human development.<br> 
+      </p>
+      <div id="divg" class="vis-container-b"></div>
+    </div>
+    
+    <div class="pure-u-1">
+      <p class="extra">
+        Visualisation by Muhammad Mazhar Mohd Nazrin.<br>
+        For the purpose of a university assignment.<br>
+        Data obtained from <a href="https://hdr.undp.org/data-center/human-development-index#/indicies/HDI">Human Development Reports</a>
+        by the <a href="https://www.undp.org/">United Nations Development Program</a><br>.
+      </p>
+    </div>
   </div>
     
 
