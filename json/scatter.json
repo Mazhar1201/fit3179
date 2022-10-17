@@ -1,0 +1,59 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Mazhar1201/fit3179/main/csv/scatter.csv"
+    },
+    "background":"whitesmoke",
+    "width": 400,
+    "height": 300,
+    "params": [
+      {
+        "name":"ContinentSelect",
+        "bind":{
+          "input": "select",
+          "options":[null,"Africa", "Asia", "Australia", "Europe", "North America", "South America"],
+          "labels":["Show All", "Africa", "Asia", "Australia", "Europe", "North America", "South America"],
+          "name": "Continent Selection"
+        }
+      }
+    ],
+    "transform": [
+      {
+        "filter":"ContinentSelect == null || datum.Continent == ContinentSelect"
+      }
+    ],
+    "mark":"point",
+    "encoding": {
+      "x":{
+        "field":"GNIperCapita",
+        "type": "quantitative",
+        "title":"Gross National Income per capita"
+      },
+      "y":{
+        "field":"LifeExp",
+        "type": "quantitative",
+        "title": "Life Expectancy (years)",
+        "scale":{"zero":false}
+      },
+      "color":{
+        "field":"Status",
+        "type":"nominal",
+        "sort": ["Very High", "High", "Medium", "Low"],
+        "scale":{
+          "range":["#100080","#3898FF","#DEAF1A","#B30000"]
+        },
+        "title":"HDI Status",
+        "legend":{
+          "direction":"horizontal",
+          "orient": "top"
+        }
+      },
+      "tooltip":[
+        {"field":"Country","type": "nominal"},
+        {"field":"CurrentRank", "type": "quantitative"},
+        {"field":"CurrentScore", "type": "quantitative"},
+        {"field":"GNIperCapita","type": "quantitative"},
+        {"field":"LifeExp","type": "quantitative"}
+      ]
+    }
+  }  
