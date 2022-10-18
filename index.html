@@ -10,7 +10,7 @@
 
     <script src="embed.js"></script>
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Roboto&display=swap" rel="stylesheet">
 
@@ -28,7 +28,7 @@
   <div class="pure-g">
     <div class="pure-u-1">
       <p class="section-1">
-        The index
+        The Index
       </p>
       <p class="main-1"> 
         The Human Development Index (commonly referred to as <b>HDI</b>) is a measure used globably to rank countries.<br>
@@ -140,6 +140,18 @@
     </div>
   </div>
     
+  <script type="text/javascript">
+    var vg_1 = "map.json";
+    vegaEmbed("#map", vg_1, { "actions": false }).then(function(result) {}).catch(console.error);
+    var vg_2 = "scatter.json"
+    vegaEmbed("#scat", vg_2, { "actions": false }).then(function(result) {}).catch(console.error);
+    var vg_3 = "cdot.json";
+    vegaEmbed("#cdot", vg_3, { "actions": false }).then(function(result) {}).catch(console.error);
+    var vg_4 = "diverging.json";
+    vegaEmbed("#divg", vg_4, { "actions": false }).then(function(result) {}).catch(console.error);
+    var vg_5 = "multibar.json";
+    vegaEmbed("#mbar", vg_5, { "actions": false }).then(function(result) {}).catch(console.error);
+  </script>
 
 </body>
 </html>
