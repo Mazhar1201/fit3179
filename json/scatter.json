@@ -38,7 +38,7 @@
         },
         "color":{
           "field":"Status",
-          "type":"nominal",
+          "type":"ordinal",
           "sort": ["Very High", "High", "Medium", "Low"],
           "scale":{
             "range":["#100080","#3898FF","#DEAF1A","#B30000"]
